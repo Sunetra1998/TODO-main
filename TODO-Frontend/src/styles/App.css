@@ -1,0 +1,35 @@
+body{
+    background-color: yellow;
+}
+h1 {
+    color: darkblue;
+    text-align: center;
+    }
+    
+#task{
+    width: 400px;
+    border: 5px solid blue;
+    margin:auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    height: 50px;
+    width: 100px;
+    background-color: darkblue;
+    color: #27aedb;
+    border: 2px solid #27aedb;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.bg-pink{
+	background-color:pink;
+}
+#main{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
